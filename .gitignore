@@ -1,3 +1,4 @@
 *.md
 *.zip
 *.png
+!readme.md
